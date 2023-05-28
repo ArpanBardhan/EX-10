@@ -66,9 +66,11 @@ while True:
 ```
 
 # OUTPUT :
+# CLIENT :
+![OUTPUT](./Screenshot%20(84).png)
 
-
-
+# SERVER :
+![OUTPUT](./Screenshot%20(85).png)
 
 # RESULT :
 Thus, the python program for creating File Transfer using TCP Sockets Links was
