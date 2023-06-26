@@ -19,7 +19,7 @@ will sendNACK signal to client.
 
 # PROGRAM :
 # CLIENT :
-```
+```PYTHON
 import socket
 s = socket.socket()
 host = socket.gethostname()
@@ -41,7 +41,7 @@ print('connection closed')
 ```
 
 # SERVER :
-```
+```PYTHON
 import socket
 port = 60000
 s = socket.socket()
